@@ -1,9 +1,8 @@
-# Watch-Me-Build-an-Education-Startup
-This is the code for "Watch Me Build an Education Startup" by Siraj Raval on Youtube
+# Learning Management System
 
 ## Overview 
 
-This is the code for [this](https://www.youtube.com/watch?v=7d1smRd-8aI) video on Youtube by Siraj Raval. It's the code for EssayBrain, a tool for teacher that automatically grades and validates essays. In order to validate essays, it uses the copyleaks API to check for plagiarism. It also uses a modified version of GPT-2 to detect the likelihood that the text was real or fake. Then it outputs a validation score using these 2 scores. In order to grade the essay, it uses a neural network model trained on the automatic essay grading dataset on Kaggle found here https://www.kaggle.com/c/asap-aes/data .Take this code and go build a profitable startup with it.
+It's the code for EssayBrain, a tool for teacher that automatically grades and validates essays. In order to validate essays, it uses the copyleaks API to check for plagiarism. It also uses a modified version of GPT-2 to detect the likelihood that the text was real or fake. Then it outputs a validation score using these 2 scores. In order to grade the essay, it uses a neural network model trained on the automatic essay grading dataset on Kaggle found here https://www.kaggle.com/c/asap-aes/data .Take this code and go build a profitable startup with it.
 
 ## Credits
 
